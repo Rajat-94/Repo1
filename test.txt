@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 6E9F-0E0A
+
+ Directory of C:\Users\RAJAT\Desktop\MyProject
+
+09-06-2017  11:47    <DIR>          .
+09-06-2017  11:47    <DIR>          ..
+09-06-2017  11:47                 0 test.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  15,153,188,864 bytes free
